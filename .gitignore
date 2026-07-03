@@ -1,0 +1,13 @@
+# Build artifacts
+src/*.o
+src/stsdemo
+src/*.out
+src/*.log
+
+# Editor/OS
+*~
+*.swp
+.DS_Store
+
+# Temporary
+/tmp/
